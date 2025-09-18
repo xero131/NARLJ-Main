@@ -1,0 +1,1377 @@
+/* screen - macbook-pro-14-landing-page */
+
+.macbook-pro-14-landing-page {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 5843px;
+  width: 1512px;
+}
+
+.macbook-pro-14-landing-page .flex-row-4 {
+  align-items: center;
+  display: flex;
+  margin-right: 7.0px;
+  margin-top: 20px;
+  min-width: 1345px;
+}
+
+.macbook-pro-14-landing-page .navbar {
+  align-items: center;
+  display: inline-flex;
+  gap: 53px;
+  margin-bottom: 2.0px;
+  position: relative;
+}
+
+.macbook-pro-14-landing-page .navbar-link-place {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.macbook-pro-14-landing-page .navbar-link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.macbook-pro-14-landing-page .component-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-3);
+  border-radius: 10px;
+  display: flex;
+  gap: 23px;
+  height: 52px;
+  margin-left: 458px;
+  overflow: hidden;
+  padding: 0 15px;
+  width: 293px;
+}
+
+.macbook-pro-14-landing-page .iconamoonsearch {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 0 2px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .vector {
+  height: 20px;
+  width: 20px;
+}
+
+.macbook-pro-14-landing-page .frame-2-1 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  border-radius: 15px;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 41px;
+  overflow: hidden;
+  padding: 16px 21px;
+  position: relative;
+}
+
+.macbook-pro-14-landing-page .flex-col-2 {
+  align-items: center;
+  min-height: 5756px;
+  width: 1512px;
+}
+
+.macbook-pro-14-landing-page .frame-3-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 501px;
+  min-width: 1512px;
+}
+
+.macbook-pro-14-landing-page .overlap-group-2 {
+  align-items: flex-start;
+  background-color: #0a2363c7;
+  display: flex;
+  flex-direction: column;
+  min-height: 501px;
+  padding: 46px 80px;
+  width: 1512px;
+}
+
+.macbook-pro-14-landing-page .logo {
+  align-items: flex-end;
+  background-image: url(../img/result.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 162px;
+  justify-content: flex-end;
+  min-width: 162px;
+  padding: 19.6px 32.3px;
+}
+
+/* .macbook-pro-14-landing-page .rectangle-11 {
+  background-color: var(--hampton);
+  height: 23px;
+  margin-bottom: 0;
+  transform: rotate(-36.08deg);
+  width: 6px;
+} */
+
+.macbook-pro-14-landing-page .the-nigerian-academi {
+  letter-spacing: 0;
+  line-height: 61px;
+  margin-top: 8px;
+  min-height: 122px;
+  width: 837px;
+}
+
+.macbook-pro-14-landing-page .advancing-knowledge {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 9px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-1-1 {
+  display: inline-flex;
+  margin-top: 36px;
+}
+
+.macbook-pro-14-landing-page .current-issue {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.macbook-pro-14-landing-page .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 250px;
+  margin-top: 72px;
+  min-width: 1352px;
+}
+
+.macbook-pro-14-landing-page .overlap-group1 {
+  align-items: center;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  padding: 31px 0;
+  width: 440px;
+}
+
+.macbook-pro-14-landing-page .overlap-group {
+  align-items: flex-start;
+  background-color: var(--deep-sapphire-2);
+  border-radius: 34.5px;
+  display: flex;
+  height: 69px;
+  margin-left: 1.0px;
+  min-width: 69px;
+  padding: 22px;
+}
+
+.macbook-pro-14-landing-page .fluentpreview-link-24-filled {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 0 2px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .vector-4 {
+  height: 18px;
+  width: 20px;
+}
+
+.macbook-pro-14-landing-page .peer-review-process {
+  color: #000000e0;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  margin-top: 21px;
+  min-height: 25px;
+  min-width: 210px;
+}
+
+.macbook-pro-14-landing-page .our-rigourous-double {
+  color: var(--black-2);
+  font-family: var(--font-family-inter);
+  font-size: 14.7px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 22px;
+  min-height: 36px;
+  text-align: center;
+  width: 406px;
+}
+
+.macbook-pro-14-landing-page .overlap-group14 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  padding: 31px 0;
+  width: 440px;
+}
+
+.macbook-pro-14-landing-page .overlap-group19 {
+  align-items: flex-start;
+  background-color: #ffffff52;
+  border-radius: 34.5px;
+  display: flex;
+  height: 69px;
+  margin-left: 1.0px;
+  min-width: 69px;
+  padding: 22px;
+}
+
+.macbook-pro-14-landing-page .ricalendar-line {
+  align-items: flex-start;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 1px 2px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .publication-schedule {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 21px;
+  min-height: 25px;
+  min-width: 213px;
+}
+
+.macbook-pro-14-landing-page .quarterly-issues-wit {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 14.7px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 22px;
+  min-height: 36px;
+  text-align: center;
+  width: 406px;
+}
+
+.macbook-pro-14-landing-page .material-symbolscircle-outline {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 0 2px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .open-access-options {
+  color: #000000e0;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7.0px;
+  margin-top: 21px;
+  min-height: 25px;
+  min-width: 219px;
+}
+
+.macbook-pro-14-landing-page .multiple-publishing {
+  color: var(--black-2);
+  font-family: var(--font-family-inter);
+  font-size: 14.7px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 22px;
+  min-height: 36px;
+  text-align: center;
+  width: 406px;
+}
+
+.macbook-pro-14-landing-page .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  display: flex;
+  gap: 23px;
+  height: 501px;
+  justify-content: flex-end;
+  margin-top: 72px;
+  min-width: 1512px;
+  padding: 59px 80px;
+}
+
+.macbook-pro-14-landing-page .flex-col-3 {
+  align-items: flex-start;
+  min-height: 382px;
+  width: 664px;
+}
+
+.macbook-pro-14-landing-page .about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .lorem-ipsum-dolor-si-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 18px;
+  min-height: 246px;
+  width: 664px;
+}
+
+.macbook-pro-14-landing-page .frame-6 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  border-radius: 15px;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 30px;
+  padding: 16px 21px;
+  position: relative;
+}
+
+.macbook-pro-14-landing-page .learn-more {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.macbook-pro-14-landing-page .frame-7 {
+  align-self: center;
+  background-image: url(../img/frame-7.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 15px;
+  height: 381px;
+  width: 664px;
+}
+
+.macbook-pro-14-landing-page .overlap-group12 {
+  align-items: center;
+  background-color: var(--ebony-clay);
+  display: flex;
+  flex-direction: column;
+  margin-top: 79px;
+  min-height: 784px;
+  padding: 52px 80px;
+  width: 1512px;
+}
+
+.macbook-pro-14-landing-page .featured-articles {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  margin-top: 15px;
+  min-height: 36px;
+  min-width: 254px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-container {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  gap: 15px;
+  margin-top: 42px;
+  min-width: 1350px;
+}
+
+.macbook-pro-14-landing-page .frame {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 15px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 490px;
+  overflow: hidden;
+  width: 440px;
+}
+
+.macbook-pro-14-landing-page .frame-24 {
+  background-image: url(../img/frame-24@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 228px;
+  width: 440px;
+}
+
+.macbook-pro-14-landing-page .frame-29 {
+  align-items: center;
+  background-color: var(--ebony-clay);
+  border-radius: 15px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 21px;
+  margin-top: 33px;
+  padding: 7px 10px;
+  position: relative;
+}
+
+.macbook-pro-14-landing-page .x-sciences {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.macbook-pro-14-landing-page .lorem-ipsum-dolor-si {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 5px;
+  margin-top: 13px;
+  min-height: 49px;
+  width: 414px;
+}
+
+.macbook-pro-14-landing-page .by-dr-elizabeth-che {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 21px;
+  margin-top: 15px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .flex-row {
+  margin-left: 21px;
+  margin-top: 34px;
+  min-width: 119px;
+}
+
+.macbook-pro-14-landing-page .read-article {
+  min-width: 95px;
+}
+
+.macbook-pro-14-landing-page .uilarrow-right {
+  align-items: flex-end;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 6.0px 6px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .vector-1 {
+  height: 12px;
+  width: 12px;
+}
+
+.macbook-pro-14-landing-page .frame-24-1 {
+  background-image: url(../img/frame-24-1@2x.png);
+}
+
+.macbook-pro-14-landing-page .by-prof-james-wilson-mit {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 21px;
+  margin-top: 15px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-24-2 {
+  background-image: url(../img/frame-24-2@2x.png);
+}
+
+.macbook-pro-14-landing-page .by-dr-michael-thorp {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-right: 41.0px;
+  margin-top: 15px;
+  min-width: 357px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-1-2 {
+  display: flex;
+  margin-right: 2.0px;
+  margin-top: 45px;
+  width: 178px;
+}
+
+.macbook-pro-14-landing-page .view-all-articles {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.macbook-pro-14-landing-page .research-categories {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 71px;
+  min-height: 36px;
+  min-width: 307px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  margin-left: 2.0px;
+  margin-top: 44px;
+  min-width: 1354px;
+}
+
+.macbook-pro-14-landing-page .frame-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-3);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 283px;
+  overflow: hidden;
+  padding: 30px 11px;
+  width: 440px;
+}
+
+.macbook-pro-14-landing-page .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--deep-sapphire-2);
+  border-radius: 34.5px;
+  display: flex;
+  height: 69px;
+  min-width: 69px;
+  padding: 22px;
+}
+
+.macbook-pro-14-landing-page .vector-5 {
+  height: 21px;
+  width: 18px;
+}
+
+.macbook-pro-14-landing-page .life-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 25px;
+  width: 135px;
+}
+
+.macbook-pro-14-landing-page .covering-molecular-b {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 18px;
+  min-height: 42px;
+  width: 411px;
+}
+
+.macbook-pro-14-landing-page .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  margin-top: 17px;
+  min-width: 142px;
+}
+
+.macbook-pro-14-landing-page .explore-papers {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .vector-6 {
+  height: 18px;
+  width: 18px;
+}
+
+.macbook-pro-14-landing-page .ical-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 25px;
+  width: 189px;
+}
+
+.macbook-pro-14-landing-page .physics-chemistry {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 18px;
+  min-height: 42px;
+  width: 411px;
+}
+
+.macbook-pro-14-landing-page .social-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 25px;
+  width: 171px;
+}
+
+.macbook-pro-14-landing-page .psychology-sociolog {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 18px;
+  min-height: 42px;
+  width: 411px;
+}
+
+.macbook-pro-14-landing-page .frame-container-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  margin-left: 2.0px;
+  margin-top: 18px;
+  min-width: 1352px;
+}
+
+.macbook-pro-14-landing-page .computer-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 25px;
+  width: 209px;
+}
+
+.macbook-pro-14-landing-page .artificial-intellige {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 18px;
+  min-height: 42px;
+  width: 411px;
+}
+
+.macbook-pro-14-landing-page .vector-8 {
+  height: 20px;
+  width: 22px;
+}
+
+.macbook-pro-14-landing-page .clinical-research-e {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 18px;
+  min-height: 42px;
+  width: 411px;
+}
+
+.macbook-pro-14-landing-page .vector-9 {
+  height: 9px;
+  left: 11px;
+  position: absolute;
+  top: 11px;
+  width: 9px;
+}
+
+.macbook-pro-14-landing-page .vector-10 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.macbook-pro-14-landing-page .vector-11 {
+  height: 11px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.macbook-pro-14-landing-page .environmental-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 25px;
+  width: 247px;
+}
+
+.macbook-pro-14-landing-page .climate-change-cons {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 18px;
+  min-height: 42px;
+  width: 411px;
+}
+
+.macbook-pro-14-landing-page .overlap-group16 {
+  align-items: center;
+  background-color: var(--mercury);
+  display: flex;
+  flex-direction: column;
+  margin-top: 89px;
+  min-height: 698px;
+  padding: 61px 77px;
+  width: 1512px;
+}
+
+.macbook-pro-14-landing-page .what-researchers-say {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.0px;
+  min-height: 36px;
+  min-width: 332px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .feedback-from-our-co {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 1.0px;
+  margin-top: 8px;
+  min-width: 421px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-89::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.macbook-pro-14-landing-page .frame-89 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 16px;
+  height: 442px;
+  margin-top: 36px;
+  min-width: 1355px;
+  overflow-x: scroll;
+}
+
+.macbook-pro-14-landing-page .frame-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 17px;
+  height: 422px;
+  overflow: hidden;
+  padding: 38px 26px;
+  width: 441px;
+}
+
+.macbook-pro-14-landing-page .flex-col {
+  flex-direction: column;
+  gap: 17px;
+  min-height: 258px;
+  width: 378px;
+}
+
+.macbook-pro-14-landing-page .text {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+}
+
+.macbook-pro-14-landing-page .lorem-ipsum-dolor-si-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-height: 210px;
+  width: 378px;
+}
+
+.macbook-pro-14-landing-page .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 70px;
+  min-width: 382px;
+}
+
+.macbook-pro-14-landing-page .rounded-rectangle {
+  align-self: flex-end;
+  height: 69px;
+  object-fit: cover;
+  width: 69px;
+}
+
+.macbook-pro-14-landing-page .flex-col-1 {
+  align-items: flex-start;
+  min-height: 68px;
+  width: 297px;
+}
+
+.macbook-pro-14-landing-page .dr-robert-harrington {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 3px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .professor-of-physics-oxford-university {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 3px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .material-symbolsstar-rounded-container {
+  height: 24px;
+  margin-top: 2px;
+  position: relative;
+  width: 108px;
+}
+
+.macbook-pro-14-landing-page .material-symbolsstar-rounded {
+  align-items: flex-start;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  left: 0;
+  padding: 3.6px 3.4px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .vector-2 {
+  height: 16px;
+  width: 17px;
+}
+
+.macbook-pro-14-landing-page .material-symbolsstar-rounded-1 {
+  align-items: flex-start;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  left: 21px;
+  padding: 3.6px 3.4px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .material-symbolsstar-rounded-2 {
+  align-items: flex-start;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  left: 42px;
+  padding: 3.6px 3.4px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .material-symbolsstar-rounded-3 {
+  align-items: flex-start;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  left: 63px;
+  padding: 3.6px 3.4px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .material-symbolsstar-rounded-4 {
+  align-items: flex-start;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  left: 84px;
+  padding: 3.6px 3.4px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .frame-container-3 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  height: 299px;
+  margin-top: 63px;
+  min-width: 1352px;
+}
+
+.macbook-pro-14-landing-page .frame-20 {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 296px;
+  overflow: hidden;
+  padding: 61px 0;
+  width: 323px;
+}
+
+.macbook-pro-14-landing-page .charmchart-line {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 0 1.9px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .text-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 20px;
+  min-height: 36px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .impact-factor {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 21px;
+  min-width: 105px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-21 {
+  align-items: center;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 296px;
+  margin-bottom: 1.0px;
+  overflow: hidden;
+  padding: 61px 81px;
+  width: 323px;
+}
+
+.macbook-pro-14-landing-page .tdesigntime {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 0 1px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .vector-3 {
+  height: 22px;
+  width: 22px;
+}
+
+.macbook-pro-14-landing-page .number {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 20px;
+  min-height: 36px;
+  min-width: 39px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .days-of-first-decison {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 21px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-22 {
+  align-items: center;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 296px;
+  margin-top: 1.0px;
+  overflow: hidden;
+  padding: 61px 58px;
+  width: 323px;
+}
+
+.macbook-pro-14-landing-page .streamline-plumpscript-2-solid {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 0 0.8px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .number-1 {
+  min-width: 49px;
+}
+
+.macbook-pro-14-landing-page .articles-published-annually {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 21px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .frame-23 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 296px;
+  overflow: hidden;
+  padding: 61px 74px;
+  width: 323px;
+}
+
+.macbook-pro-14-landing-page .overlap-group10 {
+  align-items: flex-end;
+  background-color: var(--deep-sapphire-2);
+  border-radius: 34.5px;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  min-width: 69px;
+  padding: 22px;
+}
+
+.macbook-pro-14-landing-page .pajamasearth {
+  aspect-ratio: 1;
+  background-image: url(../img/vector-83.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  width: 24px;
+}
+
+.macbook-pro-14-landing-page .number-2 {
+  min-width: 53px;
+}
+
+.macbook-pro-14-landing-page .countries-represented {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 21px;
+  min-width: 174px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .overlap-group17 {
+  align-items: center;
+  background-color: var(--mercury);
+  display: flex;
+  flex-direction: column;
+  margin-top: 61px;
+  min-height: 784px;
+  padding: 71px 61px;
+  width: 1512px;
+}
+
+.macbook-pro-14-landing-page .latest-updates {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  min-height: 36px;
+  min-width: 223px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .news-and-announcemen {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 3.0px;
+  margin-top: 14px;
+  min-width: 381px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .horizontal-scrolling::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.macbook-pro-14-landing-page .horizontal-scrolling {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 34px;
+  height: 510px;
+  margin-top: 37px;
+  min-width: 1388px;
+  overflow-x: scroll;
+}
+
+.macbook-pro-14-landing-page .frame-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 490px;
+  overflow: hidden;
+  width: 440px;
+}
+
+.macbook-pro-14-landing-page .frame-24-3 {
+  background-image: url(../img/frame-24-3@2x.png);
+}
+
+.macbook-pro-14-landing-page .date {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 26px;
+  margin-top: 26px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .lorem-ipsum-dolor-si-2 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 6.0px;
+  margin-top: 10px;
+  min-height: 58px;
+  width: 382px;
+}
+
+.macbook-pro-14-landing-page .tempus-leo-eu-aenean {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-right: 6.0px;
+  margin-top: 2px;
+  min-height: 88px;
+  width: 382px;
+}
+
+.macbook-pro-14-landing-page .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 26px;
+  margin-top: 10px;
+  min-width: 106px;
+}
+
+.macbook-pro-14-landing-page .read-more {
+  min-width: 82px;
+}
+
+.macbook-pro-14-landing-page .frame-24-4 {
+  background-image: url(../img/frame-24-4@2x.png);
+}
+
+.macbook-pro-14-landing-page .frame-24-5 {
+  background-image: url(../img/frame-24-5@2x.png);
+}
+
+.macbook-pro-14-landing-page .frame-24-6 {
+  background-image: url(../img/frame-24-6@2x.png);
+}
+
+.macbook-pro-14-landing-page .frame-25 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  display: flex;
+  flex-direction: column;
+  height: 377px;
+  padding: 76px 0;
+  width: 1512px;
+}
+
+.macbook-pro-14-landing-page .frame-27 {
+  align-items: flex-end;
+  background-color: var(--ebony-clay);
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  height: 391px;
+  padding: 16px 114px;
+  width: 1512px;
+}
+
+.macbook-pro-14-landing-page .flex-row-5 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  gap: 169px;
+  height: 221px;
+  margin-right: 36.0px;
+  min-width: 958px;
+}
+
+.macbook-pro-14-landing-page .flex-col-4 {
+  align-items: flex-start;
+  min-height: 221px;
+  width: 469px;
+}
+
+.macbook-pro-14-landing-page .logo-1 {
+  align-items: flex-end;
+  background-image: url(../img/result.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 118px;
+  justify-content: flex-end;
+  min-width: 118px;
+  padding: 14.3px 23.5px;
+}
+
+/* .macbook-pro-14-landing-page .rectangle-11-1 {
+  background-color: var(--hampton);
+  height: 17px;
+  transform: rotate(-36.08deg);
+  width: 4px;
+} */
+
+.macbook-pro-14-landing-page .contact-us {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .flex-row-6 {
+  align-items: flex-end;
+  display: flex;
+  gap: 8px;
+  height: 86px;
+  min-width: 320px;
+}
+
+.macbook-pro-14-landing-page .frame-30 {
+  height: 84px;
+  position: relative;
+  width: 20px;
+}
+
+.macbook-pro-14-landing-page .flex-col-5 {
+  align-items: flex-start;
+  min-height: 86px;
+  width: 292px;
+}
+
+.macbook-pro-14-landing-page .address {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 11px;
+  min-width: 292px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .flex-col-6 {
+  align-items: center;
+  gap: 31px;
+  min-height: 56px;
+  width: 1283px;
+}
+
+.macbook-pro-14-landing-page .address-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 576px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .dr-robert-harrington-4 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 3px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.macbook-pro-14-landing-page .flex-col-7 {
+  display: flex;
+  flex-direction: column;
+}
+
+.macbook-pro-14-landing-page .frame-1-3 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px 21px;
+  position: relative;
+}
+
+.macbook-pro-14-landing-page .frame-24-7 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 228px;
+  width: 440px;
+}
+
+.macbook-pro-14-landing-page .number-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 20px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .professor-of-physics-oxford-university-4 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 3px;
+  white-space: nowrap;
+}
+
+.macbook-pro-14-landing-page .read {
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}

@@ -1,0 +1,293 @@
+/* screen - for-authors */
+
+.for-authors {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2902px;
+  width: 1512px;
+}
+
+.for-authors .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 17.0px;
+  margin-top: 20px;
+  min-width: 1333px;
+}
+
+.for-authors .navbar {
+  align-items: center;
+  display: inline-flex;
+  gap: 53px;
+  margin-bottom: 2.0px;
+  position: relative;
+}
+
+.for-authors .navbar-link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.for-authors .component-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-3);
+  border-radius: 10px;
+  display: flex;
+  gap: 23px;
+  height: 52px;
+  margin-left: 457px;
+  overflow: hidden;
+  padding: 0 15px;
+  width: 293px;
+}
+
+.for-authors .iconamoonsearch {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 0 2.0px;
+  width: 24px;
+}
+
+.for-authors .vector {
+  height: 20px;
+  width: 20px;
+}
+
+.for-authors .frame-2 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  border-radius: 15px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 30px;
+  overflow: hidden;
+  padding: 16px 21px;
+  position: relative;
+}
+
+.for-authors .for-authors-1 {
+  line-height: normal;
+  margin-top: -3.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.for-authors .frame-33 {
+  align-items: flex-start;
+  background-color: var(--deep-sapphire);
+  display: flex;
+  height: 256px;
+  margin-top: 16px;
+  padding: 97px 89px;
+  width: 1512px;
+}
+
+.for-authors .title {
+  letter-spacing: 0;
+  line-height: 61px;
+  width: 1334px;
+}
+
+.for-authors .authors-guidelines {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 61px;
+  margin-left: 80px;
+  margin-top: 51px;
+  white-space: nowrap;
+}
+
+.for-authors .lorem-ipsum-dolor-si-1 {
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-left: 2.0px;
+  margin-top: 13px;
+  min-height: 375px;
+  width: 1352px;
+}
+
+.for-authors .for-authors-item {
+  align-self: flex-start;
+  line-height: 34.2px;
+  margin-left: 80px;
+  margin-top: 48px;
+  min-height: 35px;
+}
+
+.for-authors .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 18.0px;
+  margin-top: 9px;
+  min-height: 120px;
+  width: 1334px;
+}
+
+.for-authors .reference {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-left: 80px;
+  margin-top: 25px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.for-authors .manuscript-review-process {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-left: 80px;
+  margin-top: 32px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.for-authors .frame-container {
+  height: 767px;
+  margin-top: 58px;
+  position: relative;
+  width: 1512px;
+}
+
+.for-authors .frame-25 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  display: flex;
+  flex-direction: column;
+  height: 377px;
+  left: 0;
+  padding: 76px 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.for-authors .frame-27 {
+  align-items: flex-end;
+  background-color: var(--ebony-clay);
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  height: 391px;
+  left: 0;
+  padding: 16px 114px;
+  position: absolute;
+  top: 376px;
+  width: 1512px;
+}
+
+.for-authors .flex-row-1 {
+  align-self: center;
+  gap: 169px;
+  height: 221px;
+  margin-right: 36.0px;
+  min-width: 958px;
+}
+
+.for-authors .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 221px;
+  width: 469px;
+}
+
+.for-authors .logo {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 118px;
+  justify-content: flex-end;
+  min-width: 118px;
+  padding: 14.3px 23.5px;
+}
+
+.for-authors .rectangle-11 {
+  background-color: var(--hampton);
+  height: 17px;
+  transform: rotate(-36.08deg);
+  width: 4px;
+}
+
+.for-authors .contact-us {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.for-authors .flex-row-2 {
+  gap: 8px;
+  height: 86px;
+  min-width: 320px;
+}
+
+.for-authors .frame-30 {
+  height: 84px;
+  position: relative;
+  width: 20px;
+}
+
+.for-authors .flex-col-1 {
+  align-items: flex-start;
+  min-height: 86px;
+  width: 292px;
+}
+
+.for-authors .address {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 11px;
+  min-width: 292px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.for-authors .flex-col-2 {
+  align-items: center;
+  gap: 31px;
+  min-height: 56px;
+  width: 1283px;
+}
+
+.for-authors .vector-1 {
+  height: 22px;
+  width: 22px;
+}
+
+.for-authors .address-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 576px;
+  white-space: nowrap;
+}
+
+.for-authors .flex-col-3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.for-authors .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+}
+
+.for-authors .for-authors-2 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}

@@ -1,0 +1,486 @@
+/* screen - volumeu47issue-page-1 */
+
+.volumeu47issue-page-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2979px;
+  width: 1512px;
+}
+
+.volumeu47issue-page-1 .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 17.0px;
+  margin-top: 20px;
+  min-width: 1333px;
+}
+
+.volumeu47issue-page-1 .navbar {
+  align-items: center;
+  display: inline-flex;
+  gap: 53px;
+  margin-bottom: 2.0px;
+  position: relative;
+}
+
+.volumeu47issue-page-1 .navbar-link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.volumeu47issue-page-1 .component-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-3);
+  border-radius: 10px;
+  display: flex;
+  gap: 23px;
+  height: 52px;
+  margin-left: 457px;
+  overflow: hidden;
+  padding: 0 15px;
+  width: 293px;
+}
+
+.volumeu47issue-page-1 .iconamoonsearch {
+  align-items: center;
+  aspect-ratio: 1;
+  display: flex;
+  height: 24px;
+  padding: 0 2.0px;
+  width: 24px;
+}
+
+.volumeu47issue-page-1 .vector {
+  height: 20px;
+  width: 20px;
+}
+
+.volumeu47issue-page-1 .frame-2 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  border-radius: 15px;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 30px;
+  overflow: hidden;
+  padding: 16px 21px;
+  position: relative;
+}
+
+.volumeu47issue-page-1 .frame-33 {
+  align-items: flex-start;
+  background-color: var(--deep-sapphire);
+  display: flex;
+  flex-direction: column;
+  height: 275px;
+  margin-top: 16px;
+  padding: 60px 0;
+  width: 1512px;
+}
+
+.volumeu47issue-page-1 .frame-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  margin-top: 28px;
+  min-width: 1352px;
+}
+
+.volumeu47issue-page-1 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  margin-left: 19px;
+  min-width: 244px;
+}
+
+.volumeu47issue-page-1 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--deep-sapphire-2);
+  border-radius: 34.5px;
+  display: flex;
+  height: 69px;
+  min-width: 69px;
+  padding: 22px;
+}
+
+.volumeu47issue-page-1 .vector-2 {
+  height: 21px;
+  width: 18px;
+}
+
+.volumeu47issue-page-1 .life-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 151px;
+}
+
+.volumeu47issue-page-1 .lorem-ipsum-dolor-si {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 54px;
+  width: 614px;
+}
+
+.volumeu47issue-page-1 .dr-elizabeth-chen {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-right: 81.0px;
+  margin-top: 30px;
+  min-height: 35px;
+  width: 492px;
+}
+
+.volumeu47issue-page-1 .lorem-ipsum-dolor-si-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-top: 11px;
+  min-height: 69px;
+  width: 614px;
+}
+
+.volumeu47issue-page-1 .overlap-group-1 {
+  height: 36px;
+  margin-left: 41px;
+  margin-top: 40px;
+  position: relative;
+  width: 198px;
+}
+
+.volumeu47issue-page-1 .read-article {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: absolute;
+  top: 0;
+  width: 198px;
+}
+
+.volumeu47issue-page-1 .uilarrow-right {
+  align-items: flex-end;
+  aspect-ratio: 1;
+  display: flex;
+  height: 32px;
+  left: 155px;
+  padding: 8.0px 8px;
+  position: absolute;
+  top: 4px;
+  width: 32px;
+}
+
+.volumeu47issue-page-1 .vector-1 {
+  height: 16px;
+  width: 16px;
+}
+
+.volumeu47issue-page-1 .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  margin-left: 16px;
+  min-width: 279px;
+}
+
+.volumeu47issue-page-1 .social-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 186px;
+}
+
+.volumeu47issue-page-1 .dr-michael-thorpe {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-right: 17.0px;
+  margin-top: 30px;
+  min-height: 35px;
+  width: 559px;
+}
+
+.volumeu47issue-page-1 .overlap-group-2 {
+  height: 36px;
+  margin-left: 38px;
+  margin-top: 40px;
+  position: relative;
+  width: 198px;
+}
+
+.volumeu47issue-page-1 .frame-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  margin-left: 3.0px;
+  margin-top: 23px;
+  min-width: 1349px;
+}
+
+.volumeu47issue-page-1 .flex-row-3 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  margin-left: 19px;
+  min-width: 380px;
+}
+
+.volumeu47issue-page-1 .vector-3 {
+  height: 9px;
+  left: 11px;
+  position: absolute;
+  top: 11px;
+  width: 9px;
+}
+
+.volumeu47issue-page-1 .vector-4 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.volumeu47issue-page-1 .vector-5 {
+  height: 11px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.volumeu47issue-page-1 .environmental-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 287px;
+}
+
+.volumeu47issue-page-1 .prof-james-wilson-mit {
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-left: 41px;
+  margin-top: 30px;
+  min-height: 35px;
+  width: 315px;
+}
+
+.volumeu47issue-page-1 .flex-row-4 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  margin-left: 19px;
+  min-width: 295px;
+}
+
+.volumeu47issue-page-1 .vector-6 {
+  height: 20px;
+  width: 22px;
+}
+
+.volumeu47issue-page-1 .medical-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 202px;
+}
+
+.volumeu47issue-page-1 .flex-row-5 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  margin-left: 19px;
+  min-width: 320px;
+}
+
+.volumeu47issue-page-1 .computer-sciences {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  min-width: 227px;
+}
+
+.volumeu47issue-page-1 .dr-tanya-abdul-mayo-clinic {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-right: 81.0px;
+  margin-top: 30px;
+  min-height: 35px;
+  width: 492px;
+}
+
+.volumeu47issue-page-1 .flex-row-6 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  margin-left: 19px;
+  min-width: 306px;
+}
+
+.volumeu47issue-page-1 .vector-8 {
+  height: 18px;
+  width: 18px;
+}
+
+.volumeu47issue-page-1 .frame-87 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  border-radius: 15px;
+  display: flex;
+  gap: 28px;
+  height: 71px;
+  justify-content: flex-end;
+  margin-top: 15px;
+  min-width: 332px;
+  padding: 15px 32px;
+}
+
+.volumeu47issue-page-1 .download-pdf {
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-bottom: 2.0px;
+  min-height: 35px;
+  min-width: 182px;
+  white-space: nowrap;
+}
+
+.volumeu47issue-page-1 .material-symbolsdownload-rounded {
+  align-items: flex-end;
+  align-self: flex-end;
+  aspect-ratio: 1;
+  display: flex;
+  height: 40px;
+  padding: 6.7px 6.7px;
+  width: 40px;
+}
+
+.volumeu47issue-page-1 .vector-9 {
+  height: 27px;
+  width: 27px;
+}
+
+.volumeu47issue-page-1 .frame-25 {
+  align-items: center;
+  background-color: var(--deep-sapphire);
+  display: flex;
+  flex-direction: column;
+  height: 377px;
+  margin-top: 90px;
+  padding: 76px 0;
+  width: 1512px;
+}
+
+.volumeu47issue-page-1 .frame-27 {
+  align-items: flex-end;
+  background-color: var(--ebony-clay);
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  height: 391px;
+  padding: 16px 114px;
+  width: 1512px;
+}
+
+.volumeu47issue-page-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 221px;
+  width: 469px;
+}
+
+.volumeu47issue-page-1 .logo {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 118px;
+  justify-content: flex-end;
+  min-width: 118px;
+  padding: 14.3px 23.5px;
+}
+
+.volumeu47issue-page-1 .rectangle-11 {
+  background-color: var(--hampton);
+  height: 17px;
+  transform: rotate(-36.08deg);
+  width: 4px;
+}
+
+.volumeu47issue-page-1 .contact-us {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.volumeu47issue-page-1 .frame-30 {
+  height: 84px;
+  position: relative;
+  width: 20px;
+}
+
+.volumeu47issue-page-1 .flex-col-1 {
+  align-items: flex-start;
+  min-height: 86px;
+  width: 292px;
+}
+
+.volumeu47issue-page-1 .address {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 11px;
+  min-width: 292px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.volumeu47issue-page-1 .flex-col-2 {
+  align-items: center;
+  gap: 31px;
+  min-height: 56px;
+  width: 1283px;
+}
+
+.volumeu47issue-page-1 .vector-10 {
+  height: 22px;
+  width: 22px;
+}
+
+.volumeu47issue-page-1 .address-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 576px;
+  white-space: nowrap;
+}
+
+.volumeu47issue-page-1 .dr-elizabeth-chen-3 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  margin-right: 81.0px;
+  margin-top: 30px;
+  min-height: 35px;
+  width: 492px;
+}
+
+.volumeu47issue-page-1 .flex-col-3 {
+  display: flex;
+  flex-direction: column;
+}
